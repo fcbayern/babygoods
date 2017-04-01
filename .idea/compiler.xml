@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="baby-goods-biz" />
+        <module name="baby-goods-common" />
+        <module name="baby-goods-dao" />
+        <module name="baby-goods-service" />
+        <module name="baby-goods-web" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="baby-goods-biz" target="1.7" />
+      <module name="baby-goods-common" target="1.7" />
+      <module name="baby-goods-dao" target="1.7" />
+      <module name="baby-goods-service" target="1.7" />
+      <module name="baby-goods-web" target="1.7" />
+      <module name="babygoods" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

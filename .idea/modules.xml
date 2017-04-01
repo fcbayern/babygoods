@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/baby-goods-biz/baby-goods-biz.iml" filepath="$PROJECT_DIR$/baby-goods-biz/baby-goods-biz.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baby-goods-common/baby-goods-common.iml" filepath="$PROJECT_DIR$/baby-goods-common/baby-goods-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baby-goods-dao/baby-goods-dao.iml" filepath="$PROJECT_DIR$/baby-goods-dao/baby-goods-dao.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baby-goods-service/baby-goods-service.iml" filepath="$PROJECT_DIR$/baby-goods-service/baby-goods-service.iml" />
+      <module fileurl="file://$PROJECT_DIR$/baby-goods-web/baby-goods-web.iml" filepath="$PROJECT_DIR$/baby-goods-web/baby-goods-web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/babygoods.iml" filepath="$PROJECT_DIR$/babygoods.iml" />
+    </modules>
+  </component>
+</project>
