@@ -1,8 +1,8 @@
 <Datasources>
 	<Datasource name="babygoods"
-              userName="babygoods"
-              password="V@13482559394"
-              connectionUrl="jdbc:mysql://rm-bp1rx29u7aw0bu13do.mysql.rds.aliyuncs.com:3306/babygoods"
+              userName="babygoods_f"
+              password="wermd34"
+              connectionUrl="jdbc:mysql://rm-khpnejkk.2299.dnstoo.com:5512/babygoods"
               driverClassName="com.mysql.jdbc.Driver"
               testWhileIdle="false"
               testOnBorrow="false"
