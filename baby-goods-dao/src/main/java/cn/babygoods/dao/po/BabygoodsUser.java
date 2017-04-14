@@ -13,7 +13,7 @@ import com.ctrip.platform.dal.dao.DalPojo;
 
 @Entity
 @Database(name="babygoods")
-@Table(name="babygoods_user")
+@Table(name="user")
 public class BabygoodsUser implements DalPojo {
 
 	@Id
