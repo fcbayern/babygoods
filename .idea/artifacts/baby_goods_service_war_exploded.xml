@@ -19,7 +19,7 @@
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-core:2.7.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-databind:2.7.0" />
           <element id="library" level="project" name="Maven: com.fasterxml.jackson.core:jackson-annotations:2.7.0" />
-          <element id="file-copy" path="C:/apache-maven-localRepository/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar" output-file-name="jackson-Annotations-2.7.0.jar" />
+          <element id="file-copy" path="D:/apache-maven-localRepository/com/fasterxml/jackson/core/jackson-annotations/2.7.0/jackson-annotations-2.7.0.jar" output-file-name="jackson-Annotations-2.7.0.jar" />
           <element id="library" level="project" name="Maven: javax.servlet:jstl:1.2" />
           <element id="archive" name="baby-goods-common-1.0.jar">
             <element id="module-output" name="baby-goods-common" />
