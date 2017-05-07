@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="11d0a9d3-cc7f-42f6-b8fe-766e52d5c805" name="Default" comment="add">
+    <list default="true" id="11d0a9d3-cc7f-42f6-b8fe-766e52d5c805" name="Default" comment="">
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baby-goods-service/baby-goods-service.iml" afterPath="$PROJECT_DIR$/baby-goods-service/baby-goods-service.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/baby-goods-web/baby-goods-web.iml" afterPath="$PROJECT_DIR$/baby-goods-web/baby-goods-web.iml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -830,12 +828,20 @@
       <workItem from="1491361835139" duration="956000" />
       <workItem from="1491378918794" duration="3375000" />
       <workItem from="1494150848844" duration="237000" />
-      <workItem from="1494151689187" duration="159000" />
+      <workItem from="1494151689187" duration="202000" />
     </task>
+    <task id="LOCAL-00001" summary="add">
+      <created>1494151870409</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1494151870409</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="25043000" />
+    <option name="totallyTimeSpent" value="25086000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -894,6 +900,8 @@
     <ignored-roots>
       <path value="$PROJECT_DIR$" />
     </ignored-roots>
+    <MESSAGE value="add" />
+    <option name="LAST_COMMIT_MESSAGE" value="add" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
